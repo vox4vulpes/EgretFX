@@ -3,6 +3,12 @@
 Each release's notes on GitHub start with its section from this file — the
 release workflow refuses to publish a version that has no section here.
 
+## [1.1.1]
+
+### Changed
+- **Egret EQ 1.1.1**: lighter on the CPU (15–20% less load; AUTO GAIN 4–6
+  times quicker on the audio thread), with exactly the same sound.
+
 ## [1.1.0]
 
 ### Changed
