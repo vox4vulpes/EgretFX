@@ -8,6 +8,7 @@ for Windows, macOS and Linux, with one Windows installer.
 | Effect | In your browser | On its own |
 |---|---|---|
 | **Egret EQ** — 翡翠 · Parametric Equalizer: 48 bands, analog-matched curves, stereo/mid/side, analyzer | [open](https://vox4vulpes.github.io/EgretFX-EQ/) | [repository](https://github.com/vox4vulpes/EgretFX-EQ) |
+| **Egret Comp** — Compressor: 7 Style characters, sidechain, lookahead, auto release/gain, draggable curve | [open](https://vox4vulpes.github.io/EgretFX-Comp/) | [repository](https://github.com/vox4vulpes/EgretFX-Comp) |
 
 Each effect lives in its own repository (included here as a git submodule)
 with its web version, VST3 source and releases; this repository only builds

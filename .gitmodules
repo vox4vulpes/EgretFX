@@ -1,3 +1,6 @@
 [submodule "EgretFX-EQ"]
 	path = EgretFX-EQ
 	url = https://github.com/vox4vulpes/EgretFX-EQ.git
+[submodule "EgretFX-Comp"]
+	path = EgretFX-Comp
+	url = https://github.com/vox4vulpes/EgretFX-Comp.git
